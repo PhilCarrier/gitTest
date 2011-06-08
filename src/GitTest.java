@@ -2,6 +2,6 @@
 public class GitTest {
 	private void peace()
 	{
-		System.out.println("PEACE Yo! Phil");
+		System.out.println("PEACE Yo! Phillou");
 	}
 }
