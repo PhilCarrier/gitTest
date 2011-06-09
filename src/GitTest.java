@@ -1,3 +1,5 @@
+import java.io.File;
+
 
 public class GitTest {
 	private void peace()
@@ -14,6 +16,7 @@ public class GitTest {
 	
 	public void merge()
 	{
-		
+		File file = new File(System.getProperty("user.home"), "fichier.txt");
 	}
+	
 }
