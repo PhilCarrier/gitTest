@@ -6,4 +6,9 @@ public class GitTest {
 		System.out.println("CRISSSSSTE");
 		System.out.println("DE TRABARNAK");
 	}
+	
+	public void war()
+	{
+		System.out.println("WAR FOR ALL");
+	}
 }
