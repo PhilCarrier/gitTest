@@ -11,4 +11,9 @@ public class GitTest {
 	{
 		System.out.println("WAR FOR ALL");
 	}
+	
+	public void merge()
+	{
+		
+	}
 }
