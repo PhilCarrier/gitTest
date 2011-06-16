@@ -7,5 +7,6 @@ public class GitTest {
 		System.out.println("Ça va quand ça marche!");
 		System.out.println("Et là je pense qu'on y est enfin!");
 		System.out.println("confirmer");
+		System.out.println("add?");
 	}
 }
