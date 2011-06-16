@@ -9,6 +9,6 @@ public class GitTest {
 	
 	public void war()
 	{
-		System.out.println("WAR FOR ALL");
+		System.out.println("???");
 	}
 }
